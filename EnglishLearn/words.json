@@ -1,0 +1,102 @@
+﻿[
+    {
+        "word":"Ball",
+        "translate":"Piłka",
+        "isKnow": true
+    },
+    {
+        "Word":"House",
+        "Translate":"Dom",
+        "isKnow": false
+    },
+    {
+        "Word":"Bicycle",
+        "Translate":"Rower",
+        "isKnow": false
+    },
+    {
+        "Word":"Garden",
+        "Translate":"Ogród",
+        "isKnow": false
+    },
+    {
+        "Word":"Cup",
+        "Translate":"Kubek",
+        "isKnow": false
+    },
+    {
+        "Word":"Hat",
+        "Translate":"Czapka",
+        "isKnow": false
+    },
+    {
+        "Word":"Bird",
+        "Translate":"Ptak",
+        "isKnow": false
+    },
+    {
+        "Word":"Beach",
+        "Translate":"Plaża",
+        "isKnow": false
+    },
+    {
+        "Word":"Rain",
+        "Translate":"Deszcz",
+        "isKnow": false
+    },
+    {
+        "Word":"Doctor",
+        "Translate":"Lekarz",
+        "isKnow": false
+    },
+    {
+        "Word":"Elephant",
+        "Translate":"Słoń",
+        "isKnow": false
+    },
+    {
+        "Word":"Fish",
+        "Translate":"Ryba",
+        "isKnow": false
+    },
+    {
+        "Word":"Guitar",
+        "Translate":"Gitara",
+        "isKnow": false
+    },
+    {
+        "Word":"Key",
+        "Translate":"Klucz",
+        "isKnow": false
+    },
+    {
+        "Word":"Lamp",
+        "Translate":"Lampa",
+        "isKnow": false
+    },
+    {
+        "Word":"Map",
+        "Translate":"Mapa",
+        "isKnow": false
+    },
+    {
+        "Word":"Orange",
+        "Translate":"Pomarańcza",
+        "isKnow": false
+    },
+    {
+        "Word":"Rainbow",
+        "Translate":"Tęcza",
+        "isKnow": false
+    },
+    {
+        "Word":"Star",
+        "Translate":"Gwiazda",
+        "isKnow": false
+    },
+    {
+        "Word":"Train",
+        "Translate":"Pociąg",
+        "isKnow": false
+    }
+]
